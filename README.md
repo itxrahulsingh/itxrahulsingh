@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @itxrahulsingh
+- 👋 Hi, I’m Rahul Singh
 - 👀 I’m interested in Laravel, Vue, Codeigniter, Linux
-- 🌱 I’m currently learning New Frameworks Like tailwind, inertia etc.
+- 🌱 I’m currently learning New Frameworks Like tailwind, inertia, Alpine JS etc.
 - 📫 Reach me on this mail : rahulsingh4041@gmail.com
 
 <!---
