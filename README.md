@@ -7,13 +7,13 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 - I’m currently working as a **Full Stack Developer**
 - Love solving real-world problems with **clean, maintainable code**
 - Currently diving into **Golang**, **Rust**, and systems-level performance
 - Always open to **collaborating on open-source projects**
-- Fun Fact: I automate everything I can 🤖
+- Fun Fact: I automate everything I can
 
 ---
 
@@ -56,7 +56,7 @@
 I love building open-source tools that solve dev pain points or simplify workflows.  
  Check out my pinned repositories to see what I’ve been working on!
 
-> _"The best way to learn is to build and share."_ 🌍
+> _"The best way to learn is to build and share."_ 
 
 ---
 
@@ -72,4 +72,4 @@ I love building open-source tools that solve dev pain points or simplify workflo
 ## Let’s Connect
 
 - **rahulsingh4041@gmail.com**
-- [LinkedIn (optional)](https://www.linkedin.com/in/itxrahulsingh)
+- [LinkedIn](https://www.linkedin.com/in/itxrahulsingh)
